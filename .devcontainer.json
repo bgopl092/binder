@@ -1,4 +1,4 @@
-{
+7{
   "customizations": {
     "vscode": {
       "settings": {
@@ -153,5 +153,5 @@
     }
   },
    "image": "ubuntu:latest",
-   "runArgs": ["--privileged"]
+   "runArgs": ["--privileged","--name","ubuntu"]
  }
