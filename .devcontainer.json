@@ -153,5 +153,5 @@
     }
   },
    "image": "ubuntu:latest",
-   "runArgs": ["--privileged","--hostname","ubuntu"]
+   "runArgs": ["--privileged","--name","ubuntu"]
  }
