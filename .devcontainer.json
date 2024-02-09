@@ -153,5 +153,5 @@
     }
   },
    "image": "jrei/systemd-ubuntu:22.04",
-   "runArgs": ["--privileged","-v","/sys/fs/cgroup:/sys/fs/cgroup:ro","--cap-add","SYS_ADMIN","--hostname","ubuntu"]
+   "runArgs": ["--privileged","-v","/sys/fs/cgroup:/sys/fs/cgroup:ro","--cap-add","SYS_ADMIN"]
  }
